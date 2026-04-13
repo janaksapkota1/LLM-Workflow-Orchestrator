@@ -1,0 +1,13 @@
+# Binaries
+bin/
+server
+
+# Environment variables
+.env
+
+# Docker data (if you mapped local folders)
+pgdata/
+redisdata/
+
+# Go dependencies
+vendo
